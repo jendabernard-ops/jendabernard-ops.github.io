@@ -1,5 +1,4 @@
 {
-  "id": "io.github.jendabernardops.bernio",
   "name": "Bernio",
   "short_name": "Bernio",
   "description": "Vědecká kalkulačka Bernio – rychlá, bez reklam a plně offline jako PWA.",
@@ -14,3 +13,4 @@
     { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
+
